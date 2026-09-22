@@ -32,9 +32,23 @@ Welcome to my data analytics portfolio! This repository showcases my practical s
 * **Overview:** Database creation and schema definition script.
 * **Highlights:** Built relational tables featuring foreign key constraints, primary keys, indexing, and automated triggers to manage transactional data flows efficiently.
 
-### 3. Financial Budget & Spreadsheet Modeling (`Lookup function & pivot table.xlsx`)
-* **Overview:** Applied advanced spreadsheet functions (such as `XLOOKUP` and dynamic Pivot Tables) to build financial reporting models and business budget case studies.
 
+### 3. Financial Budget & Spreadsheet Modeling (`Lookup function & pivot table.xlsx` & `corporate sales data`)
+* **Overview:** Developed dynamic financial reporting templates, personal budget planning case studies, and automated business data organization models using professional spreadsheet functions.
+* **Key Analytical Highlights:**
+  * **Advanced Data Retrieval:** Utilized `XLOOKUP`, `VLOOKUP`, and `HLOOKUP` functions to dynamically cross-reference, merge, and pull data across multiple sheets without manual data entry errors.
+  * **Data Aggregation & Pivot Tables:** Built interactive Pivot Tables to summarize large volumes of transactional data, analyze spending trends, and generate category-wise financial summaries.
+  * **Business Case Study Modeling:** Structured practical financial models for personal and corporate budget planning, calculating variances, totals, and key performance indicators (KPIs) to support data-driven decision-making.
+
+
+### 4. Python Fundamentals & Data Collections (`Python Fundamentals.ipynb`)
+* **Overview:** Practical notebooks showcasing data manipulation using Python collections, string processing, and list operations for exploratory data tasks.
+
+
+---
+
+##  Continuous Learning
+I am actively expanding my data science toolkit by learning core Python libraries (**Pandas** for data manipulation and **NumPy** for numerical computing) to build end-to-end data pipelines and analysis projects. Stay tuned for upcoming notebooks!
 ---
 
 ## How to Run the Scripts
