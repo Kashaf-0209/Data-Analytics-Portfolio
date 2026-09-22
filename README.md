@@ -1,12 +1,12 @@
 # Data-Analytics-Portfolio
 Collection of SQL database scripts and Python assignments focused on data analysis
-# 📊 Data Analytics & SQL Portfolio
+# Data Analytics & SQL Portfolio
 
 Welcome to my data analytics portfolio! This repository showcases my practical skills in relational database management, advanced SQL querying, data manipulation, and spreadsheet modeling. 
 
 ---
 
-## 🛠️ Tech Stack & Skills Demonstrated
+## Tech Stack & Skills Demonstrated
 * **Languages & Querying:** MySQL, Advanced SQL
 * **Tools & Environments:** MS Excel / Google Sheets, Jupyter Notebooks, Git & GitHub
 * **Core Concepts:** 
@@ -17,7 +17,7 @@ Welcome to my data analytics portfolio! This repository showcases my practical s
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 ### 1. Corporate Sales & Employee Database Analysis (`KashafChoudhary _Assignment  ITSQL10 _JDTF11.sql`)
 * **Overview:** A comprehensive SQL script analyzing retail operations, customer purchasing behaviors, and employee hierarchies.
@@ -37,7 +37,7 @@ Welcome to my data analytics portfolio! This repository showcases my practical s
 
 ---
 
-## 🚀 How to Run the Scripts
+## How to Run the Scripts
 1. Clone this repository or download the `.sql` files.
 2. Open your preferred SQL environment (like MySQL Workbench).
 3. Run the schema creation and data insertion scripts, followed by the individual analytical queries to view the generated outputs.
