@@ -33,7 +33,7 @@ Welcome to my data analytics portfolio! This repository showcases my practical s
 * **Highlights:** Built relational tables featuring foreign key constraints, primary keys, indexing, and automated triggers to manage transactional data flows efficiently.
 
 
-### 3. Financial Budget & Spreadsheet Modeling (`Lookup function & pivot table.xlsx` & `corporate sales data`)
+### 3. Financial Budget & Spreadsheet Modeling (`Lookup function & pivot table.xlsx` & `KASHAF_Corporate_sales_data.xslx`)
 * **Overview:** Developed dynamic financial reporting templates, personal budget planning case studies, and automated business data organization models using professional spreadsheet functions.
 * **Key Analytical Highlights:**
   * **Advanced Data Retrieval:** Utilized `XLOOKUP`, `VLOOKUP`, and `HLOOKUP` functions to dynamically cross-reference, merge, and pull data across multiple sheets without manual data entry errors.
@@ -41,7 +41,7 @@ Welcome to my data analytics portfolio! This repository showcases my practical s
   * **Business Case Study Modeling:** Structured practical financial models for personal and corporate budget planning, calculating variances, totals, and key performance indicators (KPIs) to support data-driven decision-making.
 
 
-### 4. Python Fundamentals & Data Collections (`Python Fundamentals.ipynb`)
+### 4. Python Fundamentals & Data Collections (`Assignment data structure.ipynb`)
 * **Overview:** Practical notebooks showcasing data manipulation using Python collections, string processing, and list operations for exploratory data tasks.
 
 
